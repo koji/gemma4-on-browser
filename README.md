@@ -4,7 +4,7 @@
 
 Offline-first browser chat app for Gemma 4 E2B using MediaPipe Tasks GenAI and WebGPU.
 
-![Gemma 4 Agentic Web screenshot](/Users/koji/Desktop/screenshots/Screenshot 2026-04-22 at 12.05.49 AM.png)
+![Gemma 4 Agentic Web screenshot](webui.png)
 
 ## Overview
 

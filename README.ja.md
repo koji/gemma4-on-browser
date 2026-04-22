@@ -4,7 +4,7 @@
 
 MediaPipe Tasks GenAI と WebGPU を使って、Gemma 4 E2B をブラウザ上で動かす offline-first のチャットアプリです。
 
-![Gemma 4 Agentic Web スクリーンショット](/Users/koji/Desktop/screenshots/Screenshot 2026-04-22 at 12.05.49 AM.png)
+![Gemma 4 Agentic Web スクリーンショット](/webui.png)
 
 ## 概要
 
