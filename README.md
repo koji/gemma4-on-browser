@@ -4,6 +4,8 @@
 
 Offline-first browser chat app for Gemma 4 E2B using MediaPipe Tasks GenAI and WebGPU.
 
+![Gemma 4 Agentic Web screenshot](/Users/koji/Desktop/screenshots/Screenshot 2026-04-22 at 12.05.49 AM.png)
+
 ## Overview
 
 This project runs a Gemma 4 LiteRT Web model directly in the browser and stores the model locally in OPFS after the first download. It also includes local lexical RAG over imported `txt`, `md`, and `pdf` files, plus persistent chat history in IndexedDB.

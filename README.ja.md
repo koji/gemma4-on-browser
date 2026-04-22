@@ -4,6 +4,8 @@
 
 MediaPipe Tasks GenAI と WebGPU を使って、Gemma 4 E2B をブラウザ上で動かす offline-first のチャットアプリです。
 
+![Gemma 4 Agentic Web スクリーンショット](/Users/koji/Desktop/screenshots/Screenshot 2026-04-22 at 12.05.49 AM.png)
+
 ## 概要
 
 このプロジェクトは Gemma 4 の LiteRT Web モデルをブラウザで直接実行し、初回ダウンロード後は OPFS にモデルを保存して再利用します。さらに、`txt` / `md` / `pdf` を対象にしたローカル lexical RAG と、IndexedDB による会話履歴の永続化を備えています。
