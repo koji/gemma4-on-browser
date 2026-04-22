@@ -1,0 +1,17 @@
+{
+  "name": "Gemma 4 Agentic Web",
+  "short_name": "GemmaAgent",
+  "description": "Offline-first MediaPipe + WebGPU Gemma 4 browser chatbot",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1219",
+  "theme_color": "#0b1219",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
